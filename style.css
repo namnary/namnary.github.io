@@ -1,0 +1,28 @@
+body {
+    color:red;
+}
+
+h1 {
+    color:crimson;
+}
+
+img {
+    width: 50px;
+}
+
+/* 클래스는 .클래스로 사용 */
+.skills_to_learn{
+    color: burlywood;
+}
+
+#python {
+    color: purple;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.all_ul{
+    color: green;
+}
+
+>
